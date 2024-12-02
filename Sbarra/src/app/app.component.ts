@@ -10,5 +10,5 @@ import { AppThirdComponentComponent } from './app-third-component/app-third-comp
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Sbarra';
+  title = 'App';
 }
